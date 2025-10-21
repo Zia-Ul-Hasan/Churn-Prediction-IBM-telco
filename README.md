@@ -53,9 +53,3 @@ A user-friendly Streamlit app was built to:
 
 ---
 
-## Usage
-
-### Clone this repository
-```bash
-git clone https://github.com/Zia-Ul-Hasan/Churn-Prediction-IBM-telco.git
-cd Churn-Prediction-IBM-telco
